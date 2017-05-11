@@ -1,0 +1,5 @@
+baseURL: https://ohsu-comp-bio.github.io/
+canonifyURLs: true
+languageCode: en-us
+title: OHSU Comp. Bio.
+
