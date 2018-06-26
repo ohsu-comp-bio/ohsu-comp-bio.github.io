@@ -100,9 +100,8 @@
 }
 
 .homepage h2 {
-  text-align: center;
   font-size: 1.5rem;
-  margin-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 
 .homepage-lead {
@@ -110,7 +109,6 @@
   padding: 2rem;
   border-radius: 10px;
   margin-bottom: 1rem;
-  text-align: center;
 }
 
 .homepage-lead-container {
@@ -120,6 +118,7 @@
 
 .homepage-lead h1 {
   margin: 0;
+  padding-bottom: 1rem;
 }
 
 .homepage-footer {
